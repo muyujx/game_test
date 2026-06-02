@@ -19,7 +19,7 @@ namespace PokemonBattle.Battle
         public UnityEngine.UI.Text playerHPText;
         public UnityEngine.UI.Text enemyHPText;
         
-        [Header="战斗文本"]
+        [Header("战斗文本")]
         public UnityEngine.UI.Text battleLogText;
         
         [Header("动画")]

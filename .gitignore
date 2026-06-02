@@ -1,0 +1,22 @@
+```
+# Dependencies
+Packages/
+UserSettings/
+
+# Build artifacts
+Library/
+Temp/
+Obj/
+Build/
+
+# Logs
+*.log
+
+# Environment specific
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+```
